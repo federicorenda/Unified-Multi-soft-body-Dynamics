@@ -1,7 +1,7 @@
 # Unified-Multi-soft-body-Dyanmics
 A unified formulation which accounts for the dynamics of a general class of aquatic multi-body, soft-structured robots is presented, as described in
 
-F. Renda, F. Giorgio-Serchi, F. Boyer, C. LAschi, J. Dias and L. Seneviratne. A Unified Multi-Soft-Body Dynamic Model for Underwater Soft Robots. International Journal of Robotics reserch (submitted). 
+F. Renda, F. Giorgio-Serchi, F. Boyer, C. Laschi, J. Dias and L. Seneviratne "A Unified Multi-Soft-Body Dynamic Model for Underwater Soft Robots" The International Journal of Robotics Research, 37(6):648–666, 2018. 
 
 Insert your soft robot parameters in:
 ```
